@@ -1,4 +1,6 @@
-site_name: Marshmallow Generator
+site_name: Altıyedi Dergi'si Tasarım Standartları Belgesi
+
 nav:
-- Home: 'index.md'
+- İçerik: 'index.md'
+
 theme: readthedocs
