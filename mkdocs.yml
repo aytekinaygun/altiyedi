@@ -1,6 +1,6 @@
 site_name: Altıyedi Dergi'si Tasarım Standartları Belgesi
 
 nav:
-- İçerik: 'index.md'
+- Home: 'index.md'
 
 theme: readthedocs
