@@ -1,3 +1,4 @@
 site_name: Marshmallow Generator
 nav:
 - Home: 'index.md'
+theme: readthedocs
