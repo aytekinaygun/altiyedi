@@ -16,7 +16,7 @@
 ## Fontlar ve Ölçüleri
 - Başlık : ....., 20 pt.
 - Yazar : ......, 14 pt.
-- Yazılar : [Calibri](https://www.fontpalace.com/font-download/Calibri/ "Calibri"), 11 pt.
+- Yazılar : [Calibri](https://www.fontpalace.com/font-download/Calibri "Calibri"), 11 pt.
 - Altbaşlık : ..... fontu, 12 pt., light
 - Kaynakçada ..... fontu kullanılacak. Küçük ..... pt.
 - Sayfa no ..... fontu, .... pt.
