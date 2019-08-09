@@ -10,17 +10,7 @@
 - **Sol ve Sağ Klavuz Ölçüsü:** 15 mm.
 - **Üst ve Alt Klavuz Ölçüsü:** 20 mm.
 
-<div class="alert alert-info">
-
-**Note:** Görseller eğer kağıdın sağına ve soluna yaslanacak ise, kesim payı olarak  5 mm. dışarıya taşacak.
-
-</div>
-
-<div class="alert alert-warning">
-
-**Note:** Görseller eğer kağıdın sağına ve soluna yaslanacak ise, kesim payı olarak  5 mm. dışarıya taşacak.
-
-</div>
+      **Not:** Görseller eğer kağıdın sağına ve soluna yaslanacak ise, kesim payı olarak  5 mm. dışarıya taşacak.
 
 
 ## Fontlar ve Ölçüleri
