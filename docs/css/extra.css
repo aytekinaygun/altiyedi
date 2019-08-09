@@ -1,4 +1,9 @@
-.info {
+.infotitle {
   background-color: #6ab0de;
+  padding: 12px;
+}
+
+.info {
+  background-color: #e7f2fa;
   padding: 12px;
 }
