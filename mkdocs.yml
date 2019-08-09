@@ -4,3 +4,6 @@ nav:
 - Home: 'index.md'
 
 theme: readthedocs
+
+extra_css:
+    - css/extra.css
