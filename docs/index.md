@@ -30,7 +30,7 @@ Görseller eğer sayfanın sağına yada soluna yaslanacak ise, kesim payı olar
 Font ölçülerinin birbirleri arasındaki durumu şöyle: Başlık > Yazar > Altbaşlık
 </div>
 
-## Kurallar
+## Genel Kurallar
 - Yazılar tireli olacak. sağ ve sol yana yaslanacak.
 - Yazılar genel olarak sol sayfadan başlayacak.
 - Satırbaşları .... vuruş içeriden başlayacak.
