@@ -13,7 +13,7 @@
 
 <div class="infotitle">Not</div>
 <div class="info">
-<p>Görseller eğer sayfanın sağına yada soluna yaslanacak ise, kesim payı olarak  5 mm. dışarıya taşırılacak.</p>
+Görseller eğer sayfanın sağına yada soluna yaslanacak ise, kesim payı olarak  5 mm. dışarıya taşırılacak.
 </div>
 
 ## Fontlar ve Ölçüleri
