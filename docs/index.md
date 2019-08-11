@@ -15,7 +15,7 @@
 <div class="info">
 Görseller eğer sayfanın sağına yada soluna yaslanacak ise, kesim payı olarak  5 mm. dışarıya taşırılacak.
 </div>
-</br>
+
 ## Fontlar ve Ölçüleri
 - Başlık : ....., 20 pt.
 - Yazar : ......, 14 pt.
