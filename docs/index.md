@@ -27,7 +27,8 @@ Görseller eğer sayfanın sağına yada soluna yaslanacak ise, kesim payı olar
 
 <div class="infotitle">Not</div>
 <div class="info">
-Font ölçülerinin birbirleri arasındaki durumu şöyle: Başlık > Yazar > Altbaşlık
+Font ölçülerinin birbirleri arasındaki büyüklük sıralaması şöyle:
+Başlık > Yazar > Altbaşlık > Yazı İçeriği > Görsel Açıklaması = Kaynakça
 </div>
 
 ## Genel Kurallar
