@@ -9,11 +9,13 @@
 - **Sayfa Boyutu:** 160 x 240 mm.
 - **Sol ve Sağ Klavuz Ölçüsü:** 15 mm.
 - **Üst ve Alt Klavuz Ölçüsü:** 20 mm.
+- **Satır Ölçüsü:** 11 pt. 
 
-<div class="infotitle">Dikkat!</div>
+<div class="infotitle">Not</div>
 <div class="info">
-Görseller eğer kağıdın sağına ve soluna yaslanacak ise, kesim payı olarak  5 mm. dışarıya taşacak.
+Görseller eğer sayfanın sağına yada soluna yaslanacak ise, kesim payı olarak  5 mm. dışarıya taşırılacak.
 </div>
+
 ## Fontlar ve Ölçüleri
 - Başlık : ....., 20 pt.
 - Yazar : ......, 14 pt.
@@ -23,9 +25,12 @@ Görseller eğer kağıdın sağına ve soluna yaslanacak ise, kesim payı olara
 - Sayfa no ..... fontu, .... pt.
 - Fotoğraf alt yazıları ..... pt.(küçük) ve italik olacak.
 
-- Font ölçülerinin birbirleri arasındaki durumu şöyle: Başlık > Yazar > Altbaşlık
+<div class="infotitle">Not</div>
+<div class="info">
+Font ölçülerinin birbirleri arasındaki durumu şöyle: Başlık > Yazar > Altbaşlık
+</div>
 
-
+## Kurallar
 - Yazılar tireli olacak. sağ ve sol yana yaslanacak.
 - Yazılar genel olarak sol sayfadan başlayacak.
 - Satırbaşları .... vuruş içeriden başlayacak.
